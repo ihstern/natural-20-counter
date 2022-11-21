@@ -1,0 +1,68 @@
+body {
+    background-image: url("rpgdice.jpg");
+    background-size: cover;
+    font-family: Candara, Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin: 10px;
+    background-color: rgba(12, 157, 87, 0.721);
+    border-radius: 10px;
+    padding: 10px;
+    color: gold;
+    border: solid green;
+}
+
+h2 {
+    font-size: 50px;
+    margin: 10px;
+    background-color: rgba(12, 157, 87, 0.721);
+    border-radius: 10px;
+    color: gold;
+    border: solid green;
+}
+
+button {
+    border: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: cornsilk;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: Candara, Cambria, Cochin, Georgia, Times, Times New Roman, serif
+}
+
+div {
+    max-width: 960px;
+    margin: auto;
+}
+
+#increment-btn {
+    background: palevioletred;
+}
+
+#save-btn {
+    background: paleturquoise;
+    color: blueviolet;
+}
+
+#save-el {
+    margin: 10px;
+    background-color: rgba(12, 157, 87, 0.721);
+    border-radius: 10px;
+    padding: 10px;
+    color: gold;
+    border: solid green;
+}
+
+#attribution {
+    font-size: 8px;
+}
